@@ -1,18 +1,18 @@
-# Classificador de Textos de Humor
-Este é um notebook que contém um exemplo de como construir um classificador de textos humorísticos usando a linguagem Python e a biblioteca TensorFlow.
+# Humor Text Classification
+This is a notebook that contains an example of how to build a humorous text classifier using the Python language and the TensorFlow library.
 
-## Dados
-O conjunto de dados contém apenas duas colunas, "text" e "humor", onde text são todos os textos e humor é uma coluna booleana com True para existir humor na frase e False para não existir humor.
-O conjunto de dados utilizado nesta análise foi retirado do Kaggle, uma plataforma online de ciência de dados que oferece conjuntos de dados públicos e privados, além de ferramentas para análise e modelagem de dados.
+## Data
+The dataset contains only two columns, "text" and "mood", where text is all the text and mood is a boolean column with True to have humor in the sentence and False to have no humor.
+The dataset used in this analysis was taken from Kaggle, an online data science platform that offers public and private datasets, as well as tools for data analysis and modeling.
 
-## Pré-processamento dos dados
-O primeiro passo na construção do classificador é realizar o pré-processamento dos dados. Isso envolve a limpeza dos textos e a extração de características (features) relevantes dos textos.
+## Data pre-processing
+The first step in building the classifier is to pre-process the data. This involves cleaning up the texts and extracting relevant features from the texts.
 
-## Modelo de Classificação
-Para o modelo de classificação, foi utilizado o TensorFlow, que é usado para aprendizado de máquina e inteligência artificial que permite construir, treinar e implantar modelos complexos de forma eficiente.
+## Classification Model
+For the classification model, TensorFlow was used, which is used for machine learning and artificial intelligence that allows building, training and deploying complex models efficiently.
 
-## Resultados
-Os resultados obtidos indicaram que o modelo de classificação teve um desempenho bom na identificação de textos humorísticos. A acurácia do modelo foi de aproximadamente 90%.
+## Results
+The obtained results indicated that the classification model had a good performance in the identification of humorous texts. The accuracy of the model was approximately 90%.
 
-## Contribuição
-Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão de melhoria, por favor, abra uma issue no repositório ou envie um pull request.
+## Contribution
+Contributions are welcome! If you find any bugs or have any suggestions for improvement, please open an issue in the repository or submit a pull request.
