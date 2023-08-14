@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Humor Text Classification
 This is a notebook that contains an example of how to build a humorous text classifier using the Python language and the TensorFlow library.
 
